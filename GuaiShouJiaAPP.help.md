@@ -1,4 +1,7 @@
-## Try MarkdownUI Help file
-**MarkdownUI** is a native Markdown renderer for SwiftUI
-compatible with the[GitHub Flavored Markdown Spec](https://github.github.com/gfm/).
-下一步就是编辑帮助文档了。
+# 帮助文档
+## 简介
+**怪兽的家** 是一款金融中介，服务行业的一个工具集合
+软件可能适用于包括但不限于，财务审计，资产评估，法律咨询等从业者。
+软件是订阅付费软件，如果尚未订阅，功能是不可用的。
+## 使用指南
+1、
